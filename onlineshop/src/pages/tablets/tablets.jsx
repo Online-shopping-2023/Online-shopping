@@ -63,7 +63,7 @@ function Tablets() {
                <div class="flex flex-row">
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_67a4de6683784fbbb684418e49d5d854~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_67a4de6683784fbbb684418e49d5d854~mv2.png" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Sheer 10.2" Tablet With Wi-Fi , 32GB</h1>
@@ -72,7 +72,7 @@ function Tablets() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 70.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_9a6d29ecf9c640b28cc79f695e9fb3c2~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_9a6d29ecf9c640b28cc79f695e9fb3c2~mv2.png" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>JP - Space Tablet 10.4" Wi-Fi 32GB</h1>
@@ -81,7 +81,7 @@ function Tablets() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/touch-screen 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_23738414163d418092290f6b9becc5f5~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_23738414163d418092290f6b9becc5f5~mv2.png" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Pilates Go 10.5" Touch-Screen, 64GB With Cover</h1>
@@ -93,7 +93,7 @@ function Tablets() {
                    <div class="flex flex-row">
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ove-tablet-70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_5669a61229d34b15b7ff71c4f2269a4b~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5669a61229d34b15b7ff71c4f2269a4b~mv2.png" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Ove Tablet FD Plus - 10.3", 32GB</h1>
@@ -102,7 +102,7 @@ function Tablets() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/sheer pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_91ee238e5ee447878278fd04f4d3fafe~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_91ee238e5ee447878278fd04f4d3fafe~mv2.png" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Sheer Pro 7.9-Inch Mini Tablet</h1>
@@ -111,7 +111,7 @@ function Tablets() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ocean pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_a055ae2dfe6f457b9c2f6f3fa6d95126~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_a055ae2dfe6f457b9c2f6f3fa6d95126~mv2.png" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Ocean Pro 11 - 12.3" Touch Screen</h1>
@@ -123,7 +123,7 @@ function Tablets() {
                        <div class="flex flex-row">
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/corr-playtime-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_597373dec7644ad2818277724199fb0c~mv2.png/v1/fill/w_489,h_489,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_597373dec7644ad2818277724199fb0c~mv2.png" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>Corr Playtime 10.3", 32GB With Wi-Fi</h1>

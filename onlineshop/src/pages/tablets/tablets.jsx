@@ -132,7 +132,7 @@ function Tablets() {
                            </div>
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pilates-laptop-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_5357f93228bc4548ba664ea0b8d91f27~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_5357f93228bc4548ba664ea0b8d91f27~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>Space Tablet S7 - 11”, 128GB Wi-Fi</h1>

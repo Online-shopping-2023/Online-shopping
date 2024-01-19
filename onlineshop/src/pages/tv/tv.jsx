@@ -63,7 +63,7 @@ function TV() {
                <div class="flex flex-row">
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_77c2b89535374768bec1d6337dcdbddc~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_77c2b89535374768bec1d6337dcdbddc~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Shel 50" Class LED 4K UHD Smart TV</h1>
@@ -72,7 +72,7 @@ function TV() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 70.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_30fe87ca94c0479d9bc5e039301f90cf~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_30fe87ca94c0479d9bc5e039301f90cf~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>TV Bluetooth Soundbar With HDMI-ARC Connectivity</h1>
@@ -81,7 +81,7 @@ function TV() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/touch-screen 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_26dd5ed4d9c34428b4b7423e7fdddf21~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_26dd5ed4d9c34428b4b7423e7fdddf21~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Shel 40" Class LED Full HD Smart TV</h1>
@@ -93,7 +93,7 @@ function TV() {
                    <div class="flex flex-row">
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ove-tablet-70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_7cafe7e6503648ebbaf422161045861d~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_7cafe7e6503648ebbaf422161045861d~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Wilsom Home Cinema 4K PRO-UHD 3LCD Projector</h1>
@@ -102,7 +102,7 @@ function TV() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/sheer pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_6df363bec6fc43dd9d47ed2d34335417~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_6df363bec6fc43dd9d47ed2d34335417~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Allure 55" Class LED 4K UHD Smart TV</h1>
@@ -111,7 +111,7 @@ function TV() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ocean pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_4fc66d5377a64a80a4c5a303bf338a5d~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_4fc66d5377a64a80a4c5a303bf338a5d~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>JP 470 Wireless Mini Projector</h1>
@@ -123,7 +123,7 @@ function TV() {
                        <div class="flex flex-row">
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/corr-playtime-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_c447eca994e940c7ba7562fc67955083~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_c447eca994e940c7ba7562fc67955083~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>42" Class Full HD Smart Streamer TV</h1>
@@ -132,7 +132,7 @@ function TV() {
                            </div>
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pilates-laptop-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_a78a3c8e4c63423ab6967f12ca17e447~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_a78a3c8e4c63423ab6967f12ca17e447~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>65" Class Nano LED 4K UHD Smart TV</h1>

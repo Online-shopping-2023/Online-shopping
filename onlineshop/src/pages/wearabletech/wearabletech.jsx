@@ -63,7 +63,7 @@ function WearableTech() {
                <div class="flex flex-row">
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_396e7b1e80764edca161180595507710~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_396e7b1e80764edca161180595507710~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Space Moon Smartwatch With Charger</h1>
@@ -72,7 +72,7 @@ function WearableTech() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 70.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_75059a72af5e4949aecdfbda8746f4ef~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_75059a72af5e4949aecdfbda8746f4ef~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Fitboot Inspire Fitness Tracker With Heart Rate Tracking</h1>
@@ -81,7 +81,7 @@ function WearableTech() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/touch-screen 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_35b786fdd0bb443e9ac09561af1569d3~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_35b786fdd0bb443e9ac09561af1569d3~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Safay GEN 2 256GB VR headset With Touch Controllers</h1>
@@ -93,7 +93,7 @@ function WearableTech() {
                    <div class="flex flex-row">
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ove-tablet-70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_4567980aa0eb4bfba21b3706eaa8b2ca~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_4567980aa0eb4bfba21b3706eaa8b2ca~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>FitWatch Fitness Smart Watch</h1>
@@ -102,7 +102,7 @@ function WearableTech() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/sheer pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_a79ca5eba4af45bc99bf27f0d9eb637d~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_a79ca5eba4af45bc99bf27f0d9eb637d~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>HV Virtual Reality System for PC</h1>
@@ -111,7 +111,7 @@ function WearableTech() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ocean pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_d898eb06de73454788ddf633d055e85b~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_d898eb06de73454788ddf633d055e85b~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Pantony 6P Activity Tracker</h1>
@@ -123,7 +123,7 @@ function WearableTech() {
                        <div class="flex flex-row">
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/corr-playtime-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_ee8bc28108d44d34b0ed1b312845667f~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_ee8bc28108d44d34b0ed1b312845667f~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>FitWatch XDH Fitness Smart Watch</h1>
@@ -132,249 +132,10 @@ function WearableTech() {
                            </div>
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pilates-laptop-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_991175ea1f9140648365694757467456~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_991175ea1f9140648365694757467456~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>Journey Glass XD Virtual Reality Headset</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/tv-soundbar-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>TV Bluetooth Soundbar With HDMI-ARC Connectivity</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pill bluetooth-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Pill Shape Silver Portable Bluetooth Speaker</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/round-mini-70 .webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Round Mini Portable Bluetooth Speaker</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/studio8 speaker.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Studio 8 Portable Bluetooth Speaker</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/balo-headphones-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Balo Headphones 700 Wireless Noise Cancelling</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/spacebuds-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Space Buds True Wireless Earbud Headphones</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/drums-pro-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Drums Pro Wireless On-Ear Headphones</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/HKI-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>HKI Tech Quadcopter Drone With 360 Camera & Controller</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/shel50-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Shel 50" Class LED 4K UHD Smart TV</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/spacemoon-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Space Moon Smartwatch With Charger</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/fitboot-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Fitboot Inspire Fitness Tracker With Heart Rate Tracking</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/safay-vr-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Safay GEN 2 256GB VR headset With Touch Controllers</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/fitwatch-fitness-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>FitWatch Fitness Smart Watch</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/hv-vr-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>HV Virtual Reality System for PC</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pantony-tracker-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Pantony 6P Activity Tracker</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/fitwatch-fitness-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>FitWatch XDH Fitness Smart Watch</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/Pantony X21-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Pantony X21 5G, 128GB With Z Pen</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/jp-exmax-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>JP Exmax Phantom, 5G, 16GB</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/Ovelight-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>OVE Light Space 5G, 128GB</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/Z-pixelmax-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Smartphone Z Pixel Max 128GB Unlocked</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pantony-super-85.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>Pantony Super 10W 5G, 128GB</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="flex flex-col  ">
-                       <div class="flex flex-row">
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/jp light phantom-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>JP Light Phantom, 5G, 16GB</h1>
-                                   <h1 class="text-purple-700 text-xl mb-">70,00GEL</h1>
-                               </div>
-                           </div>
-                           <div class="border-2 w-96 overflow-hidden">
-                               <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/Z-pixelmax-70.webp" alt=""/>
-                               </div>
-                               <div class="p-2">
-                                   <h1>MAX Pantony S 5G, 128GB</h1>
                                    <h1 class="text-purple-700 text-xl mb-">85,00GEL</h1>
                                </div>
                            </div>

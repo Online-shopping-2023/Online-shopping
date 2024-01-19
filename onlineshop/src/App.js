@@ -6,6 +6,7 @@ import Mobile from './pages/mobile/mobile';
 import Tablets from './pages/tablets/tablets';
 import TV from './pages/tv/tv';
 import Audio from './pages/audio/audio';
+import ItemDesk from './pages/description';
 
 import { BrowserRouter, Routes, Route, Navigate, json } from "react-router-dom";
 import {
@@ -41,6 +42,8 @@ function App() {
         <Route path='/Mobile' element={<Mobile/>} />:
         <Route path='/TV' element={<TV/>} />:
         <Route path='/WearableTech' element={<WearableTech/>} />:
+        <Route path='/item/:id' element={<ItemDesk/>} />:
+
       </Route>
     )
   );

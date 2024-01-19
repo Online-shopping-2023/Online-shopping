@@ -64,7 +64,7 @@ function Mobile() {
                <div class="flex flex-row">
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_f37a0a50f81146d7bbaf5edb5803cd9f~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_f37a0a50f81146d7bbaf5edb5803cd9f~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Pantony X21 5G, 128GB With Z Pen</h1>
@@ -73,7 +73,7 @@ function Mobile() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 70.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_229835b7ed254c8c95f2b90ef1404ded~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_229835b7ed254c8c95f2b90ef1404ded~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>JP Exmax Phantom, 5G, 16GB</h1>
@@ -82,7 +82,7 @@ function Mobile() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/touch-screen 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_527e6c6f3d944fb88c80907c2f754afb~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_527e6c6f3d944fb88c80907c2f754afb~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Smartphone Z Pixel Max 128GB Unlocked</h1>
@@ -94,7 +94,7 @@ function Mobile() {
                    <div class="flex flex-row">
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ove-tablet-70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>OVE Light Space 5G, 128GB</h1>
@@ -103,7 +103,7 @@ function Mobile() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/sheer pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_299fed1f1efd4b4fa580ac49d00628dd~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_299fed1f1efd4b4fa580ac49d00628dd~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Pantony Super 10W 5G, 128GB</h1>
@@ -112,7 +112,7 @@ function Mobile() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ocean pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_7c88223cd6d647ca80670b82509dbf15~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_7c88223cd6d647ca80670b82509dbf15~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>JP Light Phantom, 5G, 16GB</h1>
@@ -124,7 +124,7 @@ function Mobile() {
                        <div class="flex flex-row">
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/corr-playtime-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_7fcc8eee4f374e80abdf363d0142d2ea~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_7fcc8eee4f374e80abdf363d0142d2ea~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>Go XPD Protector 5G, 16GB</h1>
@@ -133,7 +133,7 @@ function Mobile() {
                            </div>
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pilates-laptop-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_28f533b5fbdc45ed9a1b88c7e911bdd6~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_28f533b5fbdc45ed9a1b88c7e911bdd6~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>MAX Pantony S 5G, 128GB</h1>

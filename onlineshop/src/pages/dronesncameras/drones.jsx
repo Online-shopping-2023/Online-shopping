@@ -63,7 +63,7 @@ function Drones() {
                <div class="flex flex-row">
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_717f42d8a3d648eab5245dd2025d29ac~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_717f42d8a3d648eab5245dd2025d29ac~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Shak Outdoor Spotlight Security Camera</h1>
@@ -72,7 +72,7 @@ function Drones() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/tablet 70.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_1fc89607a43a4df9b54dd3a1f9603f25~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_1fc89607a43a4df9b54dd3a1f9603f25~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>H1C Indoor Wireless 1080p Network Security Camera</h1>
@@ -81,7 +81,7 @@ function Drones() {
                    </div>
                    <div class="border-2 w-96 overflow-hidden">
                        <div class="overflow-hidden">
-                           <img class="transform-transition duration-300 hover:scale-125" src="/img/touch-screen 85.webp" alt=""/>
+                           <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_2d5a87c251274b8083356fd1e61cf68d~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_2d5a87c251274b8083356fd1e61cf68d~mv2.jpg" alt=""/>
                        </div>
                        <div class="p-2">
                            <h1>Wave Mini 4 Quadcopter With Remote Controller</h1>
@@ -93,7 +93,7 @@ function Drones() {
                    <div class="flex flex-row">
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ove-tablet-70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_3fd6a46235b34d158ce2ad1628900bb2~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_3fd6a46235b34d158ce2ad1628900bb2~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Pantony DSLR Old School Camera With 18-55mm Lens</h1>
@@ -102,7 +102,7 @@ function Drones() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/sheer pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_77a52a8e6f8b4879a6548e11a3df3613~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_77a52a8e6f8b4879a6548e11a3df3613~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>HKI Tech Quadcopter Drone With 360 Camera & Controller</h1>
@@ -111,7 +111,7 @@ function Drones() {
                        </div>
                        <div class="border-2 w-96 overflow-hidden">
                            <div class="overflow-hidden">
-                               <img class="transform-transition duration-300 hover:scale-125" src="/img/ocean pro 70.webp" alt=""/>
+                               <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_c25f748ee2264db6a3767d99717a2b84~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_c25f748ee2264db6a3767d99717a2b84~mv2.jpg" alt=""/>
                            </div>
                            <div class="p-2">
                                <h1>Megapixel Waterproof Mini Digital Camera</h1>
@@ -123,7 +123,7 @@ function Drones() {
                        <div class="flex flex-row">
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/corr-playtime-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_607618f163cf465da48e3393dbcd871e~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_607618f163cf465da48e3393dbcd871e~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>EXE Mini Drone With Sky Controller</h1>
@@ -132,7 +132,7 @@ function Drones() {
                            </div>
                            <div class="border-2 w-96 overflow-hidden">
                                <div class="overflow-hidden">
-                                   <img class="transform-transition duration-300 hover:scale-125" src="/img/pilates-laptop-85.webp" alt=""/>
+                                   <img class="transform-transition duration-300 hover:scale-125" src="https://static.wixstatic.com/media/c22c23_1bef44e4aad644d88da3458c1aa9c341~mv2.jpg/v1/fill/w_489,h_489,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_1bef44e4aad644d88da3458c1aa9c341~mv2.jpg" alt=""/>
                                </div>
                                <div class="p-2">
                                    <h1>Pantony 180 20.0 Megapixel Digital Camera</h1>

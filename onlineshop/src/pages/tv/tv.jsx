@@ -10,7 +10,7 @@ function TV() {
     <div className="TV">
     <header class="flex flex-row items-center justify-around">
        <div>
-           <img src="/img/online_shop-removebg-preview.jpg" alt="logo"/>
+       <img className='h-24 w-48' src="/img/main-logo.png" alt="logo"/>
        </div>
        <div>
            <input class="bg-gray-200 border-2 border-gray-200 rounded-bl-2xl rounded-tl-2xl p-3 pr-1.5 font-sans" type="search" placeholder="Search..."/>
